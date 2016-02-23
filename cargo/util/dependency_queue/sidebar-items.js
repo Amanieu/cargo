@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["Freshness","Indication of the freshness of a package.A fresh package does not necessarily need to be rebuilt (unless a dependency was also rebuilt), and a dirty package must always be rebuilt."]],"struct":[["DependencyQueue",""]],"trait":[["Dependency","A trait for discovering the dependencies of a piece of data."]]});
